@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1631636679 source:d:\temp\monomials\main.cpp
+	<iostream>
+	"Monomial.h"
+
+1631635556 d:\temp\monomials\monomial.h
+	<iostream>
+
+1631635926 source:d:\temp\monomials\monomial.cpp
+	"Monomial.h"
+	<iostream>
+	<stdexcept>
+	<math.h>
+	<string>
+	<regex>
+
